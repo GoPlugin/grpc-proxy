@@ -5,7 +5,9 @@
 [![Go Reference](https://pkg.go.dev/badge/github.com/mwitkow/grpc-proxy.svg)](https://pkg.go.dev/github.com/mwitkow/grpc-proxy)
 [![Apache 2.0 License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](LICENSE)
 
+
 [gRPC Go](https://github.com/grpc/grpc-go) Proxy server
+
 
 ## Project Goal
 
